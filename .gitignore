@@ -4,3 +4,8 @@ GreenData/*
 .ipynb_checkpoints/*
 venv
 venv/*
+.idea/*
+.idea/
+nyc_dummies.csv
+nyc_for_ann_dumies.csv
+nyc_for_ann.csv
